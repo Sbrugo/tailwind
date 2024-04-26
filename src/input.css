@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-custom-dark {
+  background-color: #22181c;
+}
+.bg-custom-light-dark {
+  background-color: #22181c;
+}
+.highlight-color {
+  color: #f6e8ea;
+}
+.color-primary {
+  color: #db162f;
+}
+.color-secondary {
+  color: #629677;
+}
